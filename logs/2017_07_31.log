@@ -1,0 +1,35 @@
+[2017-07-31 16:10:14,128] - logger.py] - INFO: ------登录成功用例：start!---------
+[2017-07-31 16:10:14,128] - logger.py] - INFO: 输入正确账号：pW60LOuTEEZL+cPhJSAdIsRY7NICIA8QSXgT6EwspliHp/sAKOrxUV7k8+exNUIi/lW3udoV6aEe+4MOMGj1t5Co04B8AcJNHQl7+BinA0cLnqmz36sZlCtfg6VDCgvba9AkulKFzKo0EIdzZyXWKtpIWG8kBMZqQwUmq/bF55M=
+[2017-07-31 16:10:14,130] - logger.py] - INFO: 输入正确密码：bVYh3+y/ZzFZ6qMWsP3OtB6fneu2LTyAvgPsWy3jtnRtkxY7cPx8ngXhLCF0wVQAo3AQkMXJUe/jENiHxfTnuXEEjVfMar991fBrQbr1v7lJR4EVn7mbBxIIftdT5q+y4MbpPzIZ7gzJwFmU75NSnxI/Ywskq9X9BqURQxq+SoY=
+[2017-07-31 16:10:14,549] - logger.py] - INFO: 博客园登录结果：{"success":false}
+[2017-07-31 16:10:14,551] - logger.py] - INFO: 获取测试结果：{u'success': False}
+[2017-07-31 16:10:14,552] - logger.py] - INFO: ------登录失败用例：start!---------
+[2017-07-31 16:10:14,553] - logger.py] - INFO: 输入正确账号：这里是抓包后获取的博客园的加密账号
+[2017-07-31 16:10:14,553] - logger.py] - INFO: 输入错误密码：这里是抓包后获取的博客园的加密账号
+[2017-07-31 16:10:14,927] - logger.py] - INFO: 博客园登录结果：{"success":false}
+[2017-07-31 16:10:14,928] - logger.py] - INFO: 获取测试结果：{u'success': False}
+[2017-07-31 16:10:14,928] - logger.py] - INFO: ------end!---------
+[2017-07-31 16:10:14,930] - logger.py] - INFO: ----------start!-------
+[2017-07-31 16:10:14,930] - logger.py] - INFO: 测试单号：560697415000  快递名称：天天快递
+[2017-07-31 16:10:14,930] - logger.py] - INFO: 测试url地址：http://www.kuaidi.com/index-ajaxselectcourierinfo-560697415000-tiantian.html
+[2017-07-31 16:10:15,095] - logger.py] - INFO: 获取请求结果：{u'status': 8, u'exceed': u'', u'ico': u'/data/upload/201407/sf_logo.gif', u'success': True, u'url': u'http://www.sf-express.com', u'company': u'\u987a\u4e30\u901f\u8fd0', u'timeused': u'--', u'rank': u'4.0', u'phone': u'95338', u'reason': u'', u'time': u'', u'data': [{u'context': u'\u67e5\u5feb\u9012\u5bc4\u5feb\u9012\u8bf7\u4e0a\u5feb\u9012\u7f51<a href="http://www.kuaidi.com>www.kuaidi.com</a>', u'time': u'2016-08-03 09:50:56'}], u'nu': u'560697415000', u'companytype': u'shunfeng'}
+[2017-07-31 16:10:15,096] - logger.py] - INFO: 获取公司名称：顺丰速运
+[2017-07-31 16:10:15,098] - logger.py] - INFO: 获取data内容：[{u'context': u'\u67e5\u5feb\u9012\u5bc4\u5feb\u9012\u8bf7\u4e0a\u5feb\u9012\u7f51<a href="http://www.kuaidi.com>www.kuaidi.com</a>', u'time': u'2016-08-03 09:50:56'}]
+[2017-07-31 16:10:15,098] - logger.py] - INFO: 获取已签收状态：查快递寄快递请上快递网<a href="http://www.kuaidi.com>www.kuaidi.com</a>
+[2017-07-31 16:10:15,099] - logger.py] - INFO: ----------start!-------
+[2017-07-31 16:10:15,099] - logger.py] - INFO: 测试单号：1202247993797  快递名称：韵达快递
+[2017-07-31 16:10:15,101] - logger.py] - INFO: 测试url地址：http://www.kuaidi.com/index-ajaxselectcourierinfo-1202247993797-yunda.html
+[2017-07-31 16:10:15,224] - logger.py] - INFO: 获取请求结果：{u'status': 8, u'exceed': u'', u'ico': u'/data/upload/201407/sf_logo.gif', u'success': True, u'url': u'http://www.sf-express.com', u'company': u'\u987a\u4e30\u901f\u8fd0', u'timeused': u'--', u'rank': u'4.0', u'phone': u'95338', u'reason': u'', u'time': u'', u'data': [{u'context': u'\u67e5\u5feb\u9012\u5bc4\u5feb\u9012\u8bf7\u4e0a\u5feb\u9012\u7f51<a href="http://www.kuaidi.com>www.kuaidi.com</a>', u'time': u'2016-08-03 09:50:56'}], u'nu': u'1202247993797', u'companytype': u'shunfeng'}
+[2017-07-31 16:10:15,226] - logger.py] - INFO: 获取公司名称：顺丰速运
+[2017-07-31 16:10:15,226] - logger.py] - INFO: 获取data内容：[{u'context': u'\u67e5\u5feb\u9012\u5bc4\u5feb\u9012\u8bf7\u4e0a\u5feb\u9012\u7f51<a href="http://www.kuaidi.com>www.kuaidi.com</a>', u'time': u'2016-08-03 09:50:56'}]
+[2017-07-31 16:10:15,227] - logger.py] - INFO: 获取已签收状态：查快递寄快递请上快递网<a href="http://www.kuaidi.com>www.kuaidi.com</a>
+[2017-07-31 16:10:15,229] - logger.py] - INFO: ------start!--------
+[2017-07-31 16:10:15,230] - logger.py] - INFO: 第一步：登录
+[2017-07-31 16:10:15,447] - logger.py] - INFO: 调用登录方法，获取结果：{"success":false,"message":"The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters. "}
+[2017-07-31 16:10:15,463] - logger.py] - INFO: 第二步：保存
+[2017-07-31 16:10:16,249] - logger.py] - INFO: 调用保存草稿箱方法，获取结果：<Response [200]>
+[2017-07-31 16:10:16,250] - logger.py] - INFO: 正则提取postid，获取结果：[]
+[2017-07-31 16:10:16,250] - logger.py] - INFO: ------start!--------
+[2017-07-31 16:10:16,631] - logger.py] - INFO: 调用登录方法，获取结果：{"success":false,"message":"输入的不是有效的 Base-64 字符串，因为它包含非 Base-64 字符、两个以上的填充字符，或者填充字符间包含非法字符。"}
+[2017-07-31 16:10:16,631] - logger.py] - INFO: 调用登录结果：{u'message': u'\u8f93\u5165\u7684\u4e0d\u662f\u6709\u6548\u7684 Base-64 \u5b57\u7b26\u4e32\uff0c\u56e0\u4e3a\u5b83\u5305\u542b\u975e Base-64 \u5b57\u7b26\u3001\u4e24\u4e2a\u4ee5\u4e0a\u7684\u586b\u5145\u5b57\u7b26\uff0c\u6216\u8005\u586b\u5145\u5b57\u7b26\u95f4\u5305\u542b\u975e\u6cd5\u5b57\u7b26\u3002', u'success': False}
+[2017-07-31 16:10:16,632] - logger.py] - INFO: 获取是否登录成功：False
